@@ -1,0 +1,19 @@
+{
+  "name": "node-radio",
+  "version": "1.0.0",
+  "description": "a 24/7 node radio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkajyotiadhikary/Node-Radio.git"
+  },
+  "author": "arka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkajyotiadhikary/Node-Radio/issues"
+  },
+  "homepage": "https://github.com/arkajyotiadhikary/Node-Radio#readme"
+}
